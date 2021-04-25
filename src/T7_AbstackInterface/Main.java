@@ -38,7 +38,7 @@ public class Main {
 //        bd[5] = new Trapesium("Trapesium", 10, 35, 8);
 //        bd[6] = new Layang("Layang", 12, 24, 7, 9);
 //
-//        BangunDatar b = new FungsiBangunDatar();
+//        BangunDatar b = new fungsiBangunDatar();
 //        b.info();
 //        for(int i = 0; i < bd.length; i++) {
 //            System.out.printf("================ Bangun Datar %d ====================\n", i+1);
@@ -61,7 +61,7 @@ public class Main {
 //        bd[5] = new Layang("Layang", 30, 15, 12, 22);
 //        bd[6] = new Layang("Layang", 24, 40, 37, 13);
 //
-//        BangunDatar b = new FungsiBangunDatar();
+//        BangunDatar b = new fungsiBangunDatar();
 //        b.info();
 //        for(int i = 0; i < bd.length; i++) {
 //            System.out.printf("================ Bangun Datar %d ====================\n", i+1);

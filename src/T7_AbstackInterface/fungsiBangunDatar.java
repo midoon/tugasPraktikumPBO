@@ -1,6 +1,6 @@
 package T7_AbstackInterface;
 
-public class FungsiBangunDatar extends BangunDatar {
+public class fungsiBangunDatar extends BangunDatar {
     @Override
     public void info() {
         System.out.println("-------------------informasi bangun datar-------------------i");
