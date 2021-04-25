@@ -3,7 +3,7 @@ package T7_AbstackInterface;
 public class Main {
     public static void main(String[] args) {
 //        NO 1
-        BangunDatar[] obBD = new BangunDatar[][3];
+        BangunDatar[] obBD = new BangunDatar[3];
         obBD[0] = new Persegi("Persegi",50);
         obBD[1] = new Lingkaran("Lingkaran",25);
         obBD[2] = new Trapesium("Trapesium",20,50,30);
