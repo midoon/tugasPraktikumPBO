@@ -13,8 +13,6 @@ public class fungsiBangunDatar extends BangunDatar {
                 break;
             }
         }
-
-
     }
 
     @Override
@@ -30,7 +28,6 @@ public class fungsiBangunDatar extends BangunDatar {
                 }
             }
         }
-
         if (isBangun.equalsIgnoreCase("Persegi")){
             System.out.println("============================");
             System.out.println("Hasil Pencarian Bngun Datar: ");
@@ -70,9 +67,6 @@ public class fungsiBangunDatar extends BangunDatar {
             System.out.println("============================");
             System.out.println("Hasil Pencarian Bngun Datar: ");
             System.out.println("Bangun Datar tidak ditemukan di dalam list!!");
-
         }
     }
-
-
 }

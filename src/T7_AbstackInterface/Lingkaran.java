@@ -1,6 +1,5 @@
 package T7_AbstackInterface;
 
-import org.w3c.dom.ls.LSException;
 
 public class Lingkaran extends BangunDatar implements Hitung{
     private double jari;
